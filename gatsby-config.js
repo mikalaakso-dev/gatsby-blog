@@ -9,7 +9,7 @@
  */
 module.exports = {
   siteMetadata: {
-    title: `Mikan nörtti ploki`,
+    title: `Pilvi blogi`,
     author: {
       name: `Mika Laakso`,
       summary: `.`,
