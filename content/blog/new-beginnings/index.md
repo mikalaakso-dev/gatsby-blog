@@ -1,7 +1,7 @@
 ---
-title: New Beginnings
-date: "2025-02-15T22:40:32.169Z"
-description: This is a custom description for SEO and Open Graph purposes, rather than the default generated excerpt. Simply add a description field to the frontmatter.
+title: Sain suoritettu AZ-104 kokeen ensi yrittämällä!
+date: "2025-04-08T22:40:32.169Z"
+description: AZ-104 suoritettu!
 ---
 
 Far far away, behind the word mountains, far from the countries Vokalia and

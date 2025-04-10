@@ -1,7 +1,7 @@
 ---
-title: Hello World
-date: "2015-05-01T22:12:03.284Z"
-description: "Hello World"
+title: Miten kiinnostuin IT alasta
+date: "2025-02-15T22:12:03.284Z"
+description: "Taustatiedot"
 ---
 
 This is my first post on my new fake blog! How exciting!
