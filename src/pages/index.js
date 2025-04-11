@@ -1,6 +1,7 @@
 import * as React from "react"
 import { Link, graphql } from "gatsby"
-
+import { format } from 'date-fns'
+import { fi } from 'date-fns/locale'
 import Bio from "../components/bio"
 import Layout from "../components/layout"
 import Seo from "../components/seo"
@@ -33,8 +34,11 @@ const BlogIndex = ({ data, location }) => {
         <ol style={{ listStyle: `none` }}>
           {posts.map(post => {
             const title = post.frontmatter.title || post.fields.slug
+             // Format the date to Finnish locale
+          const formattedDate = format(new Date(post.frontmatter.date), 'dd MMMM yyyy', { locale: fi })
             return (
               <li key={post.fields.slug}>
+                
                 <article
                   className="post-list-item"
                   itemScope
@@ -46,7 +50,7 @@ const BlogIndex = ({ data, location }) => {
                         <span itemProp="headline">{title}</span>
                       </Link>
                     </h2>
-                    <small>{post.frontmatter.date}</small>
+                    <small>{formattedDate}</small>
                   </header>
                   <section>
                     <p

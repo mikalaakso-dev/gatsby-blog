@@ -1,5 +1,7 @@
 import * as React from "react"
 import { Link, graphql } from "gatsby"
+import { format } from 'date-fns'
+import { fi } from 'date-fns/locale'
 
 import Bio from "../components/bio"
 import Layout from "../components/layout"
@@ -11,18 +13,19 @@ const BlogPostTemplate = ({
   location,
 }) => {
   const siteTitle = site.siteMetadata?.title || `Title`
-
+  
   return (
     <Layout location={location} title={siteTitle}>
+      
       <Clouds />
       <article
         className="blog-post"
         itemScope
         itemType="http://schema.org/Article"
       >
-        <header>
+         <header>
           <h1 itemProp="headline">{post.frontmatter.title}</h1>
-          <p>{post.frontmatter.date}</p>
+          <p>{format(new Date(post.frontmatter.date), 'dd MMMM yyyy', { locale: fi })}</p>
         </header>
         <section
           dangerouslySetInnerHTML={{ __html: post.html }}
