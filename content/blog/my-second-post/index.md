@@ -4,7 +4,7 @@ date: "2025-04-10T23:46:37.121Z"
 ---
 
 
-Jos suunnittelet Microsoftin **AZ-104: Azure Administrator** -sertifikaatin suorittamista, tässä muutama vinkki, jotka auttoivat minua läpäisemään kokeen.
+Jos suunnittelet Microsoftin **AZ-104 Azure Administrator** -sertifikaatin suorittamista, tässä muutama vinkki, jotka auttoivat minua läpäisemään kokeen.
 
 ### 1. Katso John Savillin Azure Masterclass
 Ensimmäiseksi suosittelen katsomaan **John Savillin Azure Masterclassin** (YouTubesta). Se käy kattavasti läpi AZ-104-kokeen aihealueita ja tarjoaa myös laajempaa kontekstia. Savillin tapa piirtää asioita taululle auttaa hahmottamaan abstrakteja konsepteja paljon selkeämmin.
@@ -19,7 +19,7 @@ Tämä auttaa sinua oppimaan oikeasti, eikä vain pänttäämään ulkoa. Itse k
 
 ### 3. Tee Githubin lab-harjoitukset
 Tässä vaiheessa on hyvä tehdä kaikki nämä viralliset harjoitukset Azuressa **https://github.com/MicrosoftLearning/AZ-104-MicrosoftAzureAdministrator/tree/master/Instructions/Labs**
-jos avaat uuden tilin Azuressa niin sinulla on 200$ käytettävissä joten näiden labien tekemiseen ei kulu rahaa. Näiden tekeminen antoi minulle varmuutta että osaan tehdä asioita oikeastikin enkä vain katsoa videoista miten asiat tehdään.
+jos avaa uuden tilin Azuressa niin silloin on 200$ käytettävissä, joten näiden labien tekemiseen ei kulu rahaa. Näiden tekeminen antoi minulle varmuutta että osaan tehdä asioita oikeastikin enkä vain katsoa videoista miten asiat tehdään.
 Minulle aukeni vasta näiden jälkeen kunnolla Microsoft Learn AZ-104 oppimispolku. Eli suosittelen sen tekemään tässä vaiheessa. **https://learn.microsoft.com/en-us/training/courses/az-104t00**
 
 ### 4. Tee harjoituskokeita niin kauan että osaa melkein kaikki vastaukset

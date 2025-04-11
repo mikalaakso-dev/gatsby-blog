@@ -1,5 +1,5 @@
 ---
-title: Sain suoritettu AZ-104 kokeen ensi yrittämällä!
+title: Sain läpi AZ-104 kokeen ensi yrittämällä!
 date: "2025-04-04T22:40:32.169Z"
 description: 
 ---

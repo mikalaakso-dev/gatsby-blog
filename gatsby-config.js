@@ -9,7 +9,7 @@
  */
 module.exports = {
   siteMetadata: {
-    title: `Pilvi blogi`,
+    title: `Azure Pilvi Blogi`,
     author: {
       name: `Mika Laakso`,
       summary: `.`,
