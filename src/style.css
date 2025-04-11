@@ -316,7 +316,100 @@ a:focus {
 .gatsby-highlight {
   margin-bottom: var(--spacing-8);
 }
+#clouds {
+  width: 100vw; /* Full viewport width */
+  left: 0; /* Align to the left side of the screen */
+  position: absolute; /* Remove from the normal document flow */
+  top: 0; /* Place it at the top of the page */
+  padding: 100px 0;
+  background: linear-gradient(to bottom, #c9dbe9 0%, #fff 100%); /* Correct gradient direction */
+  z-index: -1; /* Keep it behind content */
+}
 
+/* Cloud styling */
+.cloud {
+  padding-top: 100px;
+  width: 200px;
+  height: 60px;
+  background: #fff;
+  border-radius: 200px;
+  position: relative;
+}
+
+.cloud:before,
+.cloud:after {
+  content: '';
+  position: absolute;
+  background: #fff;
+  width: 100px;
+  height: 80px;
+  top: -15px;
+  left: 10px;
+  border-radius: 100px;
+  transform: rotate(30deg);
+}
+
+.cloud:after {
+  width: 120px;
+  height: 120px;
+  top: -55px;
+  right: 15px;
+}
+
+/* Animation */
+@keyframes moveclouds {
+  0% {
+    margin-left: 1000px;
+  }
+  100% {
+    margin-left: -1000px;
+  }
+}
+@keyframes fadeInClouds {
+  0% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
+}
+.x1, .x2, .x3, .x4, .x5 {
+  opacity: 0; /* Ensure initial opacity is 0 */
+}
+.x1 {
+  animation: fadeInClouds 15s ease-in-out, moveclouds 80s linear infinite;
+}
+
+.x2 {
+  left: 200px;
+  transform: scale(0.6);
+  opacity: 0.6;
+  animation: fadeInClouds 20s ease-in-out, moveclouds 100s linear infinite;
+}
+
+.x3 {
+  left: -250px;
+  top: -200px;
+  transform: scale(0.8);
+  opacity: 0.8;
+  animation: fadeInClouds 30s ease-in-out, moveclouds 120s linear infinite;
+}
+
+.x4 {
+  left: 470px;
+  top: -250px;
+  transform: scale(0.75);
+  opacity: 0.75;
+  animation: fadeInClouds 40s ease-in-out, moveclouds 70s linear infinite;
+}
+
+.x5 {
+  left: -150px;
+  top: -150px;
+  transform: scale(0.8);
+  opacity: 0.8;
+  animation: fadeInClouds 50s ease-in-out, moveclouds 90s linear infinite;
+}
 /* Media queries */
 
 @media (max-width: 42rem) {
