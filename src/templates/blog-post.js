@@ -4,6 +4,7 @@ import { Link, graphql } from "gatsby"
 import Bio from "../components/bio"
 import Layout from "../components/layout"
 import Seo from "../components/seo"
+import Clouds from "../components/clouds"
 
 const BlogPostTemplate = ({
   data: { previous, next, site, markdownRemark: post },
@@ -13,6 +14,7 @@ const BlogPostTemplate = ({
 
   return (
     <Layout location={location} title={siteTitle}>
+      <Clouds />
       <article
         className="blog-post"
         itemScope
