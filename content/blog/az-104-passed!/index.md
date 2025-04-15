@@ -25,3 +25,5 @@ Silti suosittelen: Älä luota pelkästään dokumentaatioon. On tärkeää opis
 Lopulta näin tulokseni:
 800 / 1000 pistettä 💪
 Kaikissa osa-alueissa osaamiseni oli n.80 %.
+
+<img src="/images/AZ-104-certificate.png" alt="AZ-104 todistus" width="800"/>
