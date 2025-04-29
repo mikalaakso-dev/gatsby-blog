@@ -1,45 +1,39 @@
 ---
-title: Itseoppineen matka pilvipalveluihin ja tietoturvaan
+title: A Self-Taught Journey into Cloud Services and Cybersecurity
 date: "2025-02-15T22:12:03.284Z"
-description: "Kiinnostuin ohjelmoinnista vuonna 2017, kun pyöritimme vaimoni kanssa verkkokauppaa Espanjasta käsin..."
+description: "I became interested in programming in 2017 while running an online store with my wife from Spain..."
 ---
-Kiinnostuin ohjelmoinnista vuonna 2017, kun pyöritimme vaimoni kanssa verkkokauppaa Espanjasta käsin. Vapaata aikaa jäi uuden oppimiseen, ja päädyin katsomaan Harvardin CS50 -luentoja YouTubesta sekä tekemään FreeCodeCampin tehtäviä. Alku oli haastava, mutta huomasin nopeasti, että ongelmanratkaisu ja uuden oivaltaminen veivät mukanaan.
+I became interested in programming in 2017 while running an online store with my wife from Spain. I had free time to learn new things, so I started watching Harvard’s CS50 lectures on YouTube and working through FreeCodeCamp exercises. The beginning was challenging, but I quickly discovered how captivating problem-solving and gaining new insights could be.
 
-**Ensimmäinen käytännön työ**
-Vuonna 2020 mielenkiintoni laajeni ohjelmoinnista IT-infraan. Aloin tutustua AWS:n perusteisiin, mikä avasi aivan uusia näkökulmia siihen, miten modernit palvelut ja sovellukset rakennetaan pilveen. Tästä innostuneena hain IT-alalle töihin, ja elokuussa 2021 aloitin urani Service Desk -roolissa.
+**First Practical Job**  
+In 2020, my interest expanded from programming to IT infrastructure. I started exploring the basics of AWS, which opened up entirely new perspectives on how modern services and applications are built in the cloud. Motivated by this, I applied for IT jobs and began my career in August 2021 in a Service Desk role.
 
-Pidin työstä kovasti – opin paljon järjestelmistä, asiakaspalvelusta ja ongelmanratkaisusta. 2022 sain vastuullisemman roolin Process Controllerina.
+I really enjoyed the work – I learned a lot about systems, customer service, and troubleshooting. In 2022, I moved into a more responsible role as a Process Controller.
 
-Tietoturva ja frontend-projektit
-Vuoden 2022 lopulla kiinnostuin tietoturvasta ja aloin tehdä harjoituksia TryHackMe-alustalla. Kesällä 2023 suoritin Google Cybersecurity Professional -kurssin, joka tarjosi hyvän kokonaiskuvan tietoturvan perusteista.
+**Cybersecurity and Frontend Projects**  
+At the end of 2022, I became interested in cybersecurity and started doing exercises on the TryHackMe platform. In summer 2023, I completed the Google Cybersecurity Professional Certificate, which provided a solid overview of cybersecurity fundamentals.
 
-Saman vuoden aikana toteutin myös frontend-pohjaisen projektin Reactilla
+That same year, I also built a frontend-based project using React.
 
-**Kohti pilvipalveluita ja Azuren maailmaa**
-Vuonna 2024 pääsin mukaan projektiin, jossa rakennettiin integraatiosovellus Azuren päälle. Käytimme muun muassa:
+**Towards Cloud Services and the World of Azure**  
+In 2024, I joined a project that involved building an integration application on Azure. Among other tools, we used:
 
-Azure Functionsia
+- Azure Functions  
+- Storage Account  
+- REST APIs and authentication  
 
-Storage Accountia
+This experience opened my eyes to Azure's architecture and how a wide variety of services can be integrated in versatile ways.
 
-REST-rajapintoja ja autentikaatiota
+**Certified Expertise**  
+In spring 2025, I completed Microsoft’s official AZ-104: Microsoft Azure Administrator certification. It solidified my practical knowledge, especially in the following areas:
 
-Tämä kokemus avasi silmäni erityisesti Azuren arkkitehtuuriin ja siihen, miten monipuolisesti erilaisia palveluita voi yhdistää.
+- Entra ID  
+- Storage  
+- Virtual Machines  
+- Networking  
+- Monitoring  
 
-**Sertifioitu osaaminen**
-Keväällä 2025 suoritin Microsoftin virallisen AZ-104: Microsoft Azure Administrator -sertifikaatin. Se vahvisti osaamistani käytännön tasolla erityisesti seuraavilla osa-alueilla:
+I’ve learned a lot along the way – self-study hasn’t always been easy, but it’s been rewarding. My journey continues, and I want to keep deepening my expertise in cloud services, DevOps practices, and cybersecurity.
 
-Entra ID
-
-Storage
-
-Virtual Machines
-
-Networking
-
-Monitoring
-
-
-Olen oppinut paljon matkan varrella – itseopiskelu ei ole aina ollut helppoa, mutta se on ollut palkitsevaa. Matkani jatkuu, ja haluan edelleen syventää osaamistani pilvipalveluissa, DevOps-menetelmissä ja tietoturvassa.
 
 

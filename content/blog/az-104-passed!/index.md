@@ -1,29 +1,29 @@
 ---
-title: Sain läpi AZ-104 kokeen ensi yrittämällä!
+title: I passed AZ-104 at first try!
 date: "2025-04-04T22:40:32.169Z"
 description: 
 ---
 
-Vähän jännitti, kun koe alkoi. Suoritin kokeen valvottuna Pearson Vuen kautta. Valvonta oli mielenkiintoisesti järjestetty – valvojan kanssa ei puhuttu lainkaan. Minusta otettiin valokuvat sekä koetilasta että itsestäni, ja sen jälkeen kamera laitettiin päälle. Valvoja pystyi sen avulla seuraamaan koko ajan, mitä tein.
+I was a bit nervous when the exam started. I took the exam under supervision through Pearson VUE. The supervision was interestingly arranged – there was no communication with the proctor at all. They took photos of both me and the exam environment, and after that, the camera was turned on. The proctor was able to monitor everything I did through it.
 
-🧠 **Case study -osio yllätti positiivisesti**
-Koe alkoi case study -tehtävillä. Yllätyin, sillä ne tuntuivat helpommilta kuin harjoituskokeissa. Olin lukenut etukäteen varoituksia siitä, että nämä vievät paljon aikaa, mutta itse pääsin niistä melko nopeasti läpi.
+🧠 **Case Study Section – A Pleasant Surprise**
+The exam began with case study tasks. I was surprised because they felt easier than the ones in the practice exams. I had read warnings beforehand saying these could take a lot of time, but I was able to get through them fairly quickly.
 
-Tiedot oli jäsennelty selkeästi omille sivuilleen: mukana oli tekniset tavoitteet ja nykyinen tilanne. Harjoituskokeissa ne olivat hajallaan useissa A4-arkeissa, mikä teki niistä vaikeampia. En tietenkään tiedä, menivätkö vastaukseni oikein, koska sitä ei näytetä missään vaiheessa koetta.
+The information was clearly organized on separate pages, including technical goals and the current situation. In the practice exams, everything was scattered across multiple A4 sheets, which made them harder. Of course, I don’t know if my answers were correct since the exam never shows that at any point.
 
-🤯 **Haastavammat kysymykset ja strategia**
-Kokeessa oli noin 10 vaikeampaa kysymystä. Erityisesti yksi kysymys backend load balancerista meni todella syvälle teknisiin yksityiskohtiin. Kokeessa voi liputtaa kysymykset, joihin haluaa palata myöhemmin – käytin tätä toimintoa haastavien kysymysten kohdalla.
+🤯 **Challenging Questions and Strategy**
+There were about 10 more difficult questions in the exam. One in particular about a backend load balancer went really deep into technical details. You can flag questions in the exam to return to them later – I used this feature for the challenging ones.
 
-Tärkeää huomioida: Case study -osioon ja joihinkin jatkuviin tehtävätyyppeihin ei voi enää palata, kun niihin on vastannut.
+Important to note: You can’t go back to the case study section or certain ongoing task types once you've answered them.
 
-📚 **Dokumentaation hyödyntäminen**
-Minulle jäi noin 30 minuuttia aikaa vaikeampien kysymysten käsittelyyn. Aloin käyttää tätä aikaa Microsoftin Azure-dokumentaation selaamiseen. Yhden kysymyksen sain todennäköisesti korjattua oikein dokumentaation avulla.
+📚 **Using Documentation**
+I had about 30 minutes left to tackle the more difficult questions. I used this time to browse Microsoft’s Azure documentation. I was probably able to correct one of my answers with the help of the documentation.
 
-Silti suosittelen: Älä luota pelkästään dokumentaatioon. On tärkeää opiskella kunnolla etukäteen – dokumenttiapu toimii vain yksittäisissä tilanteissa.
+Still, I recommend: Don’t rely solely on documentation. It’s important to study properly in advance – the documentation is only helpful in specific situations.
 
-✅ **Lopputulos**
-Lopulta näin tulokseni:
-800 / 1000 pistettä 💪
-Kaikissa osa-alueissa osaamiseni oli n.80 %.
+✅ Final Result
+In the end, I saw my result:
+800 / 1000 points 💪
+I scored about 80% in every area.
 
-<img src="/images/AZ-104-certificate.png" alt="AZ-104 todistus" width="800"/>
+<img src="/images/AZ-104-certificate.png" alt="AZ-104 certificate" width="800"/>
