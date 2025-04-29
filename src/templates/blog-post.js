@@ -1,7 +1,7 @@
 import * as React from "react"
 import { Link, graphql } from "gatsby"
 import { format } from 'date-fns'
-import { fi } from 'date-fns/locale'
+import {enGB} from 'date-fns/locale'
 
 import Bio from "../components/bio"
 import Layout from "../components/layout"
@@ -25,7 +25,7 @@ const BlogPostTemplate = ({
       >
          <header>
           <h1 itemProp="headline">{post.frontmatter.title}</h1>
-          <p>{format(new Date(post.frontmatter.date), 'dd MMMM yyyy', { locale: fi })}</p>
+          <p>{format(new Date(post.frontmatter.date), 'dd MMMM yyyy', { locale: enGB })}</p>
         </header>
         <section
           dangerouslySetInnerHTML={{ __html: post.html }}

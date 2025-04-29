@@ -1,7 +1,7 @@
 import * as React from "react"
 import { Link, graphql } from "gatsby"
 import { format } from 'date-fns'
-import { fi } from 'date-fns/locale'
+import { enGB } from 'date-fns/locale'
 import Bio from "../components/bio"
 import Layout from "../components/layout"
 import Seo from "../components/seo"
@@ -35,7 +35,7 @@ const BlogIndex = ({ data, location }) => {
           {posts.map(post => {
             const title = post.frontmatter.title || post.fields.slug
              // Format the date to Finnish locale
-          const formattedDate = format(new Date(post.frontmatter.date), 'dd MMMM yyyy', { locale: fi })
+          const formattedDate = format(new Date(post.frontmatter.date), 'dd MMMM yyyy', { locale: enGB })
             return (
               <li key={post.fields.slug}>
                 
