@@ -5,7 +5,7 @@ date: "2025-04-24T23:46:37.121Z"
 
 
 
-I love working with **Azure infrastructure and DevOps**, but it can be a bit tricky to find hands-on labs or safe environments to really practice those skills in a meaningful way.
+I love working with **Azure infrastructure and DevOps**, but it can be a bit tricky to really practice those skills in a meaningful way.
 
 That’s why I’ve been spending more time with **cybersecurity**, especially **blue team topics**—because there are some amazing resources out there for learning by doing.
 
